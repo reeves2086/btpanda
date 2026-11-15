@@ -18,7 +18,7 @@ export class TransactionsStore {
       currency: "USD",
       type: "Deposit",
       status: "Completed",
-    }
+    },
     {
       date: "Oct 28, 2026",
       amount: "1000.50",
