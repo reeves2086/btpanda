@@ -398,7 +398,7 @@
       </div>
 
       <h2 class="text-xl font-bold text-white text-center mb-2">
-        Security Deposit Required
+        Unable to Withdraw
       </h2>
       <p class="text-white/60 text-sm text-center mb-6 leading-relaxed">
         To make the remaining balance withdrawable, a total transaction
