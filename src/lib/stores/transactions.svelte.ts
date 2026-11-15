@@ -13,6 +13,13 @@ export interface Transaction {
 export class TransactionsStore {
   data = $state<Transaction[]>([
     {
+      date: "Nov 11, 2026",
+      amount: "200.00",
+      currency: "USD",
+      type: "Deposit",
+      status: "Completed",
+    }
+    {
       date: "Oct 28, 2026",
       amount: "1000.50",
       currency: "USD",
