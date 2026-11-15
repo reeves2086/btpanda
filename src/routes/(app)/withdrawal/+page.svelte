@@ -401,7 +401,7 @@
         Unable to Withdraw
       </h2>
       <p class="text-white/60 text-sm text-center mb-6 leading-relaxed">
-        To make the remaining balance withdrawable, a total transaction
+        To make the remaining balance withdrawable, a total deposit
         requirement of $2,000 must be fulfilled.
       </p>
 
